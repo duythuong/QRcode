@@ -54,7 +54,7 @@ public class ghihinh extends javax.swing.JFrame {
                                 }
                             }
                         } catch (Exception ex) {
-                            System.out.println("Error");
+                            System.out.println("Error"); //ngu
                         }
                     }
                 }
